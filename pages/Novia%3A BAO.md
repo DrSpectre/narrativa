@@ -1,0 +1,7 @@
+- Persona exitosa: Abogada
+- Tiene su propio buffet de abogados.
+- Se lleva bien con su familia
+-
+- No tiene buena relación con la familia por conflictos por su pareja.
+- ![regina-blandon-tor-4-1-683x1024.jpg](../assets/regina-blandon-tor-4-1-683x1024_1755547823014_0.jpg)
+-

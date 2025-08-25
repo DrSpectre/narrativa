@@ -1,0 +1,12 @@
+## NOMBRE: JOAQUIN
+- Es un streamer fracasado
+- Canta corridos mal hechos, con apenas 5 listeners, 3 son bots de mama, uno es la novia y el otro es el recordando mejores tiempos.
+- Inicio su carrera de músico en la prepa.
+- su peak fue en la prepa
+- Gano un concurso de talentos. Solo uno en la prepa.
+-
+- Es un Whitexican
+-
+-
+- ![ANUEKXAGH5EWVOLUTHFAM6KYBI.jpg](../assets/ANUEKXAGH5EWVOLUTHFAM6KYBI_1755546784493_0.jpg)
+-

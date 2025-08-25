@@ -1,0 +1,1037 @@
+{:blocks (
+{:block/created-at 1755546272920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Presentar al novio"
+:id "3a69b870-7c6a-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [-192 384]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755545614055
+:italic false}}
+:block/updated-at 1755546272920} 
+{:block/created-at 1755548676951
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 176]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Esta stremienado con tres bots de viewers,\nlleva doce horas en stream.\nPara traer mas gente cambia de FIFA a COD y ahuyenta un bot. .\nLA novia grita con cierto desden \"amor me voy al trabajo, suerte en tu \nextendeible de doce horas. Te traigo comida china si me acuerdo\"\n\nAqui presentamos a Alexa contestando a Paola y Joaquin le empieza a \nhacer ojitos. "
+:id "5a0526b0-7c6a-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [-208 632]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755545667693
+:italic false}}
+:block/updated-at 1755548676951} 
+{:block/created-at 1755548245172
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5a0574d0-7c6a-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [-10.25 545]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [5.19 0]
+:bindingId "5a0574d1-7c6a-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [0 83]
+:bindingId "5a059be0-7c6a-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755545666917
+:italic false}}
+:block/updated-at 1755548245172} 
+{:block/created-at 1755545957937
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [472 240]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Para agregar:\nEl problema a replicar de BAO sera el machismo \ninherente en la superacion de la pareja al obtener una \nmejora en sus habilidades y aptitudes sociales.\n"
+:id "b216ed70-7c6a-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [-160 -328]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755545814814
+:italic false}}
+:block/updated-at 1755545957937} 
+{:block/created-at 1755546007489
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 4
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [472 240]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Novio:\nEl novio siente soledad por no cumplir sus metas o\nlas metas esperadas a su edad"
+:id "08cfdaf0-7c6b-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [400 -192]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755545960143
+:italic false}}
+:block/updated-at 1755546007489} 
+{:block/created-at 1755546007489
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "08d02910-7c6b-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [313 -150.44]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "08d02911-7c6b-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [83 20.15]
+:bindingId "08d02912-7c6b-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755545959987
+:italic false}}
+:block/updated-at 1755546007489} 
+{:block/created-at 1755546038086
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 6
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [472 240]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Novia:\nSe esta realizando dentro de lo que se\nconsidera esperado en la sociedad."
+:id "22dd2ab0-7c6b-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [416 -520]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755546003899
+:italic false}}
+:block/updated-at 1755546038086} 
+{:block/created-at 1755546009265
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "22dd51c0-7c6b-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [313 -320]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 33]
+:bindingId "22dd51c1-7c6b-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [99 0]
+:bindingId "22dd51c2-7c6b-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755546003716
+:italic false}}
+:block/updated-at 1755546009265} 
+{:block/created-at 1755546054146
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3e69a060-7c6b-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [87 -612]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 283]
+:bindingId "3e69a061-7c6b-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [25.73 0]
+:bindingId "3e69a062-7c6b-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755546049981
+:italic false}}
+:block/updated-at 1755546054146} 
+{:block/created-at 1755546243978
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 8
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [472 240]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Proxy:\nNovia virtual (Alexa con peluca)"
+:id "3e697950-7c6b-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [-112 -856]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755546050186
+:italic false}}
+:block/updated-at 1755546243978} 
+{:block/created-at 1755548810007
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 10
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Cómo se conocen Joaquin y Alexa"
+:id "c7a26920-7c6b-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [292 384]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755546280188
+:italic false}}
+:block/updated-at 1755548810007} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c7a2b740-7c6b-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [0 464]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "c7a2b741-7c6b-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [484 0]
+:bindingId "c7a2b742-7c6b-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755546280117
+:italic false}}
+:block/updated-at 1755546280119} 
+{:block/created-at 1755548297685
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "Novio: BAO"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 858.0000000805029]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e67ab80-7c6d-11f0-906e-2bf2437e64ec"
+:noFill false
+:point [-1720 -264]
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:collapsedHeight 0
+:nonce 1755546828454}}
+:block/updated-at 1755548297685} 
+{:block/created-at 1755547849703
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 13
+:scale [1 1]
+:pageId "Novia: BAO"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 780.75]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65e55db0-7c6f-11f0-906e-2bf2437e64ec"
+:noFill false
+:point [-1688 -1120]
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:collapsedHeight 0
+:nonce 1755547834229}}
+:block/updated-at 1755547849703} 
+{:block/created-at 1755547936420
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 14
+:scale [1 1]
+:type "image"
+:assetId "9ce93a70-7c6f-11f0-906e-2bf2437e64ec"
+:size [499.5 499.5]
+:opacity 1
+:id "9ce9afa0-7c6f-11f0-906e-2bf2437e64ec"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [-1528 -1832]
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755547926551
+:clipping 0}}
+:block/updated-at 1755547936420} 
+{:block/created-at 1755549655054
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 15
+:scale [1 1]
+:type "image"
+:assetId "bd710480-7c6f-11f0-906e-2bf2437e64ec"
+:size [600 600]
+:opacity 1
+:id "bd7152a0-7c6f-11f0-906e-2bf2437e64ec"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [-1576 -1912]
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755547981332
+:clipping 0}}
+:block/updated-at 1755549655054} 
+{:block/content "Esta tirado en su escritorio, tratando de ser streamer.\nY Canta corridos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "68a37ff4-4707-48f6-b45c-2f2347994950"}
+:block/parent 
+{:block/uuid #uuid "68a37ff4-4707-48f6-b45c-2f2347994950"}
+:block/uuid #uuid "68a3898f-8edb-43f4-8222-bae406b5a641"} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 16
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Presentacion del encuentro romantico entre Joaquin y Paola."
+:id "12e2a4f0-7c70-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [-676 384]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755548124469
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "12e2cc00-7c70-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [-288 464]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [95 0]
+:bindingId "12e2cc01-7c70-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "12e2cc02-7c70-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755548124353
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 18
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Joaquin esta tocando la guitarra con su hit mas reciente\nen una fiesta en Ecatepec. Y en eso entra \nPaola y se queda plasmada con la habilidad de Joaquin. "
+:id "2efadfe0-7c70-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [-676 644]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755548171696
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2efb06f0-7c70-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [-484 545]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "2efb06f1-7c70-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [0 95]
+:bindingId "2efb06f2-7c70-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755548171488
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 20
+:scale [1 1]
+:type "youtube"
+:size [424.5147395722905 238.8828546245011]
+:id "83371820-7c71-11f0-906e-2bf2437e64ec"
+:url "https://www.youtube.com/watch?v=zqFm6iVrEZw"
+:isLocked false
+:point [656 88]
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755548742421}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 21
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Cuando Alexa le contesta a Paola, Joaquin grita \"Te amo\" y Alexa\ncontesta un dialogo distorsionado por la percepcion de Joaquin \nsobre escuchar un te amo de vuelta. "
+:id "1b0258e0-7c72-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [292 644]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755548997185
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 22
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "1b027ff0-7c72-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [484 545]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "1b027ff1-7c72-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [0 95]
+:bindingId "1b02a700-7c72-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755548996977
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 23
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "HIstoria de amor"
+:id "7877f9d0-7c72-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [776 384]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755549153809
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 24
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "787820e0-7c72-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [677 464]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "787820e1-7c72-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "787820e2-7c72-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755549153776
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549790540
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 25
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Alexa empieza a comunicar apoyo a su\ntrabajo de streamer.\nCuando siente el apoyo, decide sacar la peluca de \nel cuarto de la novia y ponersela a Alexa. \nEmpieza a jugar en vivo provocando la participacion de\nAlexa dentro del juego.\n"
+:id "7f84ac90-7c73-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [776 644]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755549595439
+:italic false}}
+:block/updated-at 1755549790540} 
+{:block/created-at 1755549647033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 26
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7f84d3a0-7c73-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [968 545]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "7f84d3a1-7c73-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [0 95]
+:bindingId "7f84d3a2-7c73-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755549595099
+:italic false}}
+:block/updated-at 1755549647033} 
+{:block/created-at 1755549956707
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 27
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [384 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Eventos dentro del extendible de doce horas."
+:id "4da27b70-7c74-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill false
+:point [1288 56]
+:fontSize 20
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755549941021
+:italic false}}
+:block/updated-at 1755549956707} 
+{:block/created-at 1755549944088
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 28
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4da2a280-7c74-11f0-906e-2bf2437e64ec"
+:fontWeight 400
+:noFill true
+:point [1094.44 220]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 163]
+:bindingId "4da2a281-7c74-11f0-906e-2bf2437e64ec"}
+:end 
+{:id "end"
+:canBind true
+:point [254.44 0]
+:bindingId "4da2a282-7c74-11f0-906e-2bf2437e64ec"}}
+:decorations 
+{:end "arrow"}
+:parentId "68a37ff4-4707-48f6-b45c-2f2347994950"
+:nonce 1755549940926
+:italic false}}
+:block/updated-at 1755549944088})
+:pages (
+{:block/uuid #uuid "68a37ff4-4707-48f6-b45c-2f2347994950"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "68a37ff4-4707-48f6-b45c-2f2347994950"
+:name "fusilarse a bao"
+:bindings 
+{:787820e1-7c72-11f0-906e-2bf2437e64ec 
+{:id "787820e1-7c72-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "787820e0-7c72-11f0-906e-2bf2437e64ec"
+:toId "c7a26920-7c6b-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:12e2cc02-7c70-11f0-906e-2bf2437e64ec 
+{:id "12e2cc02-7c70-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "12e2cc00-7c70-11f0-906e-2bf2437e64ec"
+:toId "12e2a4f0-7c70-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:1b02a700-7c72-11f0-906e-2bf2437e64ec 
+{:id "1b02a700-7c72-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "1b027ff0-7c72-11f0-906e-2bf2437e64ec"
+:toId "1b0258e0-7c72-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:3e69a061-7c6b-11f0-906e-2bf2437e64ec 
+{:id "3e69a061-7c6b-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "3e69a060-7c6b-11f0-906e-2bf2437e64ec"
+:toId "b216ed70-7c6a-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2efb06f1-7c70-11f0-906e-2bf2437e64ec 
+{:id "2efb06f1-7c70-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "2efb06f0-7c70-11f0-906e-2bf2437e64ec"
+:toId "12e2a4f0-7c70-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:12e2cc01-7c70-11f0-906e-2bf2437e64ec 
+{:id "12e2cc01-7c70-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "12e2cc00-7c70-11f0-906e-2bf2437e64ec"
+:toId "3a69b870-7c6a-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c7a2b741-7c6b-11f0-906e-2bf2437e64ec 
+{:id "c7a2b741-7c6b-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "c7a2b740-7c6b-11f0-906e-2bf2437e64ec"
+:toId "3a69b870-7c6a-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:1b027ff1-7c72-11f0-906e-2bf2437e64ec 
+{:id "1b027ff1-7c72-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "1b027ff0-7c72-11f0-906e-2bf2437e64ec"
+:toId "c7a26920-7c6b-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:08d02912-7c6b-11f0-906e-2bf2437e64ec 
+{:id "08d02912-7c6b-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "08d02910-7c6b-11f0-906e-2bf2437e64ec"
+:toId "08cfdaf0-7c6b-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:4da2a282-7c74-11f0-906e-2bf2437e64ec 
+{:id "4da2a282-7c74-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "4da2a280-7c74-11f0-906e-2bf2437e64ec"
+:toId "4da27b70-7c74-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:22dd51c1-7c6b-11f0-906e-2bf2437e64ec 
+{:id "22dd51c1-7c6b-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "22dd51c0-7c6b-11f0-906e-2bf2437e64ec"
+:toId "b216ed70-7c6a-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:08d02911-7c6b-11f0-906e-2bf2437e64ec 
+{:id "08d02911-7c6b-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "08d02910-7c6b-11f0-906e-2bf2437e64ec"
+:toId "b216ed70-7c6a-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:22dd51c2-7c6b-11f0-906e-2bf2437e64ec 
+{:id "22dd51c2-7c6b-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "22dd51c0-7c6b-11f0-906e-2bf2437e64ec"
+:toId "22dd2ab0-7c6b-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:7f84d3a2-7c73-11f0-906e-2bf2437e64ec 
+{:id "7f84d3a2-7c73-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "7f84d3a0-7c73-11f0-906e-2bf2437e64ec"
+:toId "7f84ac90-7c73-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:4da2a281-7c74-11f0-906e-2bf2437e64ec 
+{:id "4da2a281-7c74-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "4da2a280-7c74-11f0-906e-2bf2437e64ec"
+:toId "7877f9d0-7c72-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:3e69a062-7c6b-11f0-906e-2bf2437e64ec 
+{:id "3e69a062-7c6b-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "3e69a060-7c6b-11f0-906e-2bf2437e64ec"
+:toId "3e697950-7c6b-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:c7a2b742-7c6b-11f0-906e-2bf2437e64ec 
+{:id "c7a2b742-7c6b-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "c7a2b740-7c6b-11f0-906e-2bf2437e64ec"
+:toId "c7a26920-7c6b-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:2efb06f2-7c70-11f0-906e-2bf2437e64ec 
+{:id "2efb06f2-7c70-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "2efb06f0-7c70-11f0-906e-2bf2437e64ec"
+:toId "2efadfe0-7c70-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:787820e2-7c72-11f0-906e-2bf2437e64ec 
+{:id "787820e2-7c72-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "787820e0-7c72-11f0-906e-2bf2437e64ec"
+:toId "7877f9d0-7c72-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:7f84d3a1-7c73-11f0-906e-2bf2437e64ec 
+{:id "7f84d3a1-7c73-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "7f84d3a0-7c73-11f0-906e-2bf2437e64ec"
+:toId "7877f9d0-7c72-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:5a0574d1-7c6a-11f0-906e-2bf2437e64ec 
+{:id "5a0574d1-7c6a-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "5a0574d0-7c6a-11f0-906e-2bf2437e64ec"
+:toId "3a69b870-7c6a-11f0-906e-2bf2437e64ec"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:5a059be0-7c6a-11f0-906e-2bf2437e64ec 
+{:id "5a059be0-7c6a-11f0-906e-2bf2437e64ec"
+:type "line"
+:fromId "5a0574d0-7c6a-11f0-906e-2bf2437e64ec"
+:toId "5a0526b0-7c6a-11f0-906e-2bf2437e64ec"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets [
+{:id "9ce93a70-7c6f-11f0-906e-2bf2437e64ec"
+:type "image"
+:src "../assets/GNAMAZONED5TACH015_1755547926412_0.png"
+:size [999 999]} 
+{:id "bd710480-7c6f-11f0-906e-2bf2437e64ec"
+:type "image"
+:src "../assets/pngtree-pink-wig-lady-hair-png-image_6105081_1755547980994_0.png"
+:size [1200 1200]}]
+:shapes-index ("3a69b870-7c6a-11f0-906e-2bf2437e64ec" "5a0526b0-7c6a-11f0-906e-2bf2437e64ec" "5a0574d0-7c6a-11f0-906e-2bf2437e64ec" "b216ed70-7c6a-11f0-906e-2bf2437e64ec" "08cfdaf0-7c6b-11f0-906e-2bf2437e64ec" "08d02910-7c6b-11f0-906e-2bf2437e64ec" "22dd2ab0-7c6b-11f0-906e-2bf2437e64ec" "22dd51c0-7c6b-11f0-906e-2bf2437e64ec" "3e697950-7c6b-11f0-906e-2bf2437e64ec" "3e69a060-7c6b-11f0-906e-2bf2437e64ec" "c7a26920-7c6b-11f0-906e-2bf2437e64ec" "c7a2b740-7c6b-11f0-906e-2bf2437e64ec" "0e67ab80-7c6d-11f0-906e-2bf2437e64ec" "65e55db0-7c6f-11f0-906e-2bf2437e64ec" "9ce9afa0-7c6f-11f0-906e-2bf2437e64ec" "bd7152a0-7c6f-11f0-906e-2bf2437e64ec" "12e2a4f0-7c70-11f0-906e-2bf2437e64ec" "12e2cc00-7c70-11f0-906e-2bf2437e64ec" "2efadfe0-7c70-11f0-906e-2bf2437e64ec" "2efb06f0-7c70-11f0-906e-2bf2437e64ec" "83371820-7c71-11f0-906e-2bf2437e64ec" "1b0258e0-7c72-11f0-906e-2bf2437e64ec" "1b027ff0-7c72-11f0-906e-2bf2437e64ec" "7877f9d0-7c72-11f0-906e-2bf2437e64ec" "787820e0-7c72-11f0-906e-2bf2437e64ec" "7f84ac90-7c73-11f0-906e-2bf2437e64ec" "7f84d3a0-7c73-11f0-906e-2bf2437e64ec" "4da27b70-7c74-11f0-906e-2bf2437e64ec" "4da2a280-7c74-11f0-906e-2bf2437e64ec")}}
+:block/updated-at 1755549958949
+:block/created-at 1755545588855
+:block/type "whiteboard"
+:block/name "fusilarse a bao"
+:block/original-name "fusilarse a bao"})}
